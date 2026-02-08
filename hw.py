@@ -1,2 +1,2 @@
-x = Alyona
+x = ('Alyona')
 print ("Hello, {x}!")
